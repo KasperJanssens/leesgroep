@@ -19,6 +19,7 @@ library
                      , Exercise2 
                      , Exercise3 
                      , Exercise4 
+                     , Exercise6 
   build-depends:       base >= 4.7 && < 5
   default-language:    Haskell2010
 
@@ -30,6 +31,7 @@ test-suite leesgroepOefeningen-test
                      , TestExercise2
                      , TestExercise3
                      , TestExercise4
+                     , TestExercise6
   build-depends:       base
                      , hspec
                      , QuickCheck
