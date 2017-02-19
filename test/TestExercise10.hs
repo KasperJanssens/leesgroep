@@ -1,0 +1,1 @@
+-- Maak de vectorklasse uit oefening 5 ook een instance van de Fracional type class. Testen.

@@ -1,0 +1,3 @@
+-- Implememteer twee functies voor de vector uit oefening 5. Kies een symbool (geen letters) en implementeer
+-- het inwendig en het kruisproduct. Schrijf er testen voor.
+--  https://nl.wikipedia.org/wiki/Inwendig_product, https://nl.wikipedia.org/wiki/Kruisproduct.

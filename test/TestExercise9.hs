@@ -1,0 +1,2 @@
+-- Implementeer de euclidische norm voor de vector uit oefening 5 : https://nl.wikipedia.org/wiki/Norm_(wiskunde).
+-- Implemeneer ook het scalair product ( vermenigvuldig vector met een scalair getal). Schrijf testen.
