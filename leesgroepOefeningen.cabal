@@ -21,7 +21,9 @@ library
                      , Exercise4 
                      , Exercise6 
                      , Exercise7 
-  build-depends:       base >= 4.7 && < 5
+                     , Exercise11 
+  build-depends:       base >= 4.7 && < 5,
+                       JuicyPixels
   default-language:    Haskell2010
 
 test-suite leesgroepOefeningen-test
@@ -34,6 +36,7 @@ test-suite leesgroepOefeningen-test
                      , TestExercise4
                      , TestExercise6
                      , TestExercise7
+                     , TestExercise11
   build-depends:       base
                      , hspec
                      , QuickCheck

@@ -5,6 +5,7 @@ import TestExercise3
 import TestExercise4
 import TestExercise6
 import TestExercise7
+import TestExercise11
 
 main :: IO ()
 main = hspec $ do
@@ -14,3 +15,4 @@ main = hspec $ do
          exercise4
          exercise6
          exercise7
+         exercise11
